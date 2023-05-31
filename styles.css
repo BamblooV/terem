@@ -1,0 +1,23 @@
+.row > div {
+  background-color: #b74fccb0;
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.col-md-4:nth-child(1) {
+  background-color: #b63434;
+}
+
+.col-md-4:nth-child(2) {
+  border-style: dashed;
+  background-color: #d4375f;
+}
+
+.col-md-4:nth-child(3) {
+  background-color: #40d4d4;
+}
+
+body {
+  position: relative;
+  height: 100vh;
+}
